@@ -53,3 +53,4 @@ En esta actividad aprenderás a usar Git y GitHub para trabajar con repositorios
 
 #UNA VEZ TERMINADO, AGREGA TU NOMBRE, APELLIDOS Y HORA.
 Esrudiante: Zurirh Zurith - Hora: 8:40 AM
+SamaJireth Zapata
